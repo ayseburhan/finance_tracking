@@ -1,7 +1,6 @@
 # Finans Takip
 
-**Finans Takip Uygulaması**, döviz, altın ve kripto paraların güncel kurlarını takip eden,   detaylı veriler sunan bir Flutter uygulamasıdır. Bu proje, teknik mülakat kapsamında geliştirilmiş olup, modern Flutter uygulama teknikleri kullanılarak tasarlanmıştır.
-
+**Finans Takip Uygulaması**, döviz, altın ve kripto paraların güncel kurlarını takip eden,   detaylı veriler sunan bir Flutter uygulamasıdır.
 ---
 
 ## İçerik
@@ -149,7 +148,7 @@ bash
 
 -   **API Kısıtlamaları:**\
     Kullanılan API\'ler ücretsiz planlarda sınırlı veri sunabilir.
-    Proje, mülakat amaçlı temel özellikleri barındırmaktadır.
+    
 
 **Kurulum ve Çalıştırma Talimatları**
 
